@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -oE \"\\\\\\\\\\\\\\\\begin\\\\\\\\{[a-z]+\\\\\\\\}\" docs/paper_lncs.tex)"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+dataset,file_name,file_size_bytes,runs,total_ms,lsbm_ms,huffman_ms,encode_ms,std_total_ms,std_lsbm_ms,std_huffman_ms,std_encode_ms,peak_ram_mb,cpu_percent,encoding_rate_bits_per_nt,gross_rate_bits_per_nt,gc_mean,gc_var,rll_max,rll_violations,seq_count,storage_seq_count,end_violations,avg_best_lsbm_len,segments,dna_hash_payload,dna_hash_storage
+straybird_paper,straybird_paper.txt,205805,3,1088.75,121.177,0.3417,967.233,8.38027,3.44322,0.0353073,5.92828,-1,-1,1.31912,0.936575,0.50074,2.5008e-05,2,0,10402,10402,0,41.963,3293,782b798184e00307,31811883052a2bc1

@@ -1,0 +1,2 @@
+dataset,file_name,file_size_bytes,runs,total_ms,lsbm_ms,huffman_ms,encode_ms,std_total_ms,std_lsbm_ms,std_huffman_ms,std_encode_ms,peak_ram_mb,cpu_percent,encoding_rate_bits_per_nt,gross_rate_bits_per_nt,gc_mean,gc_var,rll_max,rll_violations,seq_count,storage_seq_count,end_violations,avg_best_lsbm_len,segments,dna_hash_payload,dna_hash_storage
+ohenry_paper,ohenry_paper.txt,758444,2,4959.26,506.519,0.3768,4452.36,67.3852,3.35335,0.0803,70.8188,-1,-1,1.21883,0.865437,0.503003,1.80222e-05,2,0,41485,41485,0,16.8716,12136,1897de5847872b0a,4951ae36a7fa65df
