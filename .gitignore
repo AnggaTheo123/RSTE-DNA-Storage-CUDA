@@ -1,0 +1,11 @@
+﻿# Exclude everything not required for submission
+.claude/
+.ref/
+.venv/
+.git/
+build/
+overleaf/
+__pycache__/
+*.pyc
+*.exe
+.gitattributes
